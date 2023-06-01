@@ -1,3 +1,3 @@
 ### baseball KATA
 ---
-baseball
+baseball1
